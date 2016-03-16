@@ -1,0 +1,8 @@
+E:\Data\Homework\DeserializeXML\DeserializeXML\bin\Release\DeserializeXML.exe
+E:\Data\Homework\DeserializeXML\DeserializeXML\bin\Release\DeserializeXML.pdb
+E:\Data\Homework\DeserializeXML\DeserializeXML\obj\x86\Release\DeserializeXML.DeserializeForm.resources
+E:\Data\Homework\DeserializeXML\DeserializeXML\obj\x86\Release\DeserializeXML.XMLSerialization.resources
+E:\Data\Homework\DeserializeXML\DeserializeXML\obj\x86\Release\DeserializeXML.Properties.Resources.resources
+E:\Data\Homework\DeserializeXML\DeserializeXML\obj\x86\Release\DeserializeXML.csproj.GenerateResource.Cache
+E:\Data\Homework\DeserializeXML\DeserializeXML\obj\x86\Release\DeserializeXML.exe
+E:\Data\Homework\DeserializeXML\DeserializeXML\obj\x86\Release\DeserializeXML.pdb

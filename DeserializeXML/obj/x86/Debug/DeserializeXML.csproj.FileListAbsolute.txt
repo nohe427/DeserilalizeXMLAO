@@ -1,0 +1,9 @@
+E:\Data\Homework\DeserializeXML\DeserializeXML\bin\Debug\DeserializeXML.exe
+E:\Data\Homework\DeserializeXML\DeserializeXML\bin\Debug\DeserializeXML.pdb
+E:\Data\Homework\DeserializeXML\DeserializeXML\obj\x86\Debug\DeserializeXML.csprojResolveAssemblyReference.cache
+E:\Data\Homework\DeserializeXML\DeserializeXML\obj\x86\Debug\DeserializeXML.XMLSerialization.resources
+E:\Data\Homework\DeserializeXML\DeserializeXML\obj\x86\Debug\DeserializeXML.Properties.Resources.resources
+E:\Data\Homework\DeserializeXML\DeserializeXML\obj\x86\Debug\DeserializeXML.csproj.GenerateResource.Cache
+E:\Data\Homework\DeserializeXML\DeserializeXML\obj\x86\Debug\DeserializeXML.exe
+E:\Data\Homework\DeserializeXML\DeserializeXML\obj\x86\Debug\DeserializeXML.pdb
+E:\Data\Homework\DeserializeXML\DeserializeXML\obj\x86\Debug\DeserializeXML.DeserializeForm.resources
